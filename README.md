@@ -1,5 +1,5 @@
 # Selam dostlarım
-- Adım Selim 17 yaşındayım
+- Adım Sadık 17 yaşındayım
 - 3 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
 - Discord adresim: sado#1337, ( https://discord.gg/xHpS5RUFbT )(davet link)
 - Web Sitem: https://sadovitsa.xyz/
