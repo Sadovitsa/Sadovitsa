@@ -51,6 +51,6 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/username=sadovitsa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?username=sadovitsa)](https://github.com/anuraghazra/github-readme-stats)
 
  
