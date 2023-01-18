@@ -1,14 +1,58 @@
-# Selam dostlarım
-- Adım Sadık 17 yaşındayım
-- 3 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
-- Discord adresim: sado#1337, ( https://discord.gg/xHpS5RUFbT )(davet link)
-- Web Sitem: https://sadovitsa.xyz/
-- Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
-- Everything you can imagine is real -
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/sadovitsa)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ichbinsadik/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=link)](https://discord.com/invite/xHpS5RUFbT/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-quare&labelColor=1ED760&logo=spotify&logoColor=white&link=link)](https://open.spotify.com/user/31dibld5mo7nkq54mfpw65xqj2xu?si=190f87af9fae4c35&nd=1)
+## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
+- 🔭 Adım Sadık 17 yaşındayım.
+- 🌱 3 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
+- 👯 Discord adresim: sado#1337, ( https://discord.gg/xHpS5RUFbT )(davet link)
+- 🤔 Web Sitem: https://sadovitsa.xyz/
+- 🥅 Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
+- ⚡ Everything you can imagine is real -
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sadovitsa&show_icons=true)
+
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+[instagram]: https://www.instagram.com/everythingjusthurts
+[bionluk]: https://bionluk.com/sadovitsa
+[linkedin]: https://www.sadovitsa.xyz/
+[medium]: https://sadovitsa.xyz
+[gmail]: mailto:sadovitsailetisim@gmail.com
+<br />
+
+
+### 🔧 Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
+[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
+
+<br />
+
+[flutter]: https://flutter.dev/
+[vsCode]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[android]: https://www.android.com/
+[github]: https://github.com/IbrahimTalha0
+[python]: https://www.python.org/
+[ios]: https://www.apple.com/ios/ios-14/
+[xd]: https://www.adobe.com/products/xd.html
+
+<br />
+<br />
+
+
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=sadovitsa&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadovitsa&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
