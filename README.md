@@ -52,6 +52,6 @@
 <br />
 
 ![](https://komarev.com/ghpvc/?username=Erenzy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?username=sadovitsa)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=sadovitsa)
 
  
