@@ -51,6 +51,7 @@
 <br />
 <br />
 
+https://camo.githubusercontent.com/3a1d48d2f68be4a547518d06177e77aecad34f844a44db361197def639c0c7ad/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4572656e7a79
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?username=sadovitsa)](https://github.com/anuraghazra/github-readme-stats)
 
  
