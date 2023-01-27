@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/AlertAdventurousAngwantibo-max-1mb.gif" width="500" height="320" />
+
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 Adım Sadık 17 yaşındayım.
