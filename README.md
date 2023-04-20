@@ -6,7 +6,6 @@
 - 👯 Discord adresim: sado#1337, ( https://discord.gg/xHpS5RUFbT )(davet link)
 - 🤔 Web Sitem: https://sadovitsa.xyz/
 - 🥅 Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
-- ⚡ Everything you can imagine is real -
 
 
 ### 📩 Connect with me:
