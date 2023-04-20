@@ -1,6 +1,6 @@
 
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
+## I'm a Student 👨‍🎓, Full Stack Developer 🚀
 - 🔭 Adım Sadık 17 yaşındayım.
 - 🌱 3 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
 - 👯 Discord adresim: sado#1337, ( https://discord.gg/xHpS5RUFbT )(davet link)
